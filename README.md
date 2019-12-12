@@ -3,14 +3,14 @@
 
 # Table of Contents
 - [Concept](#1-concept)
-- [Scene] (#2-scene)
-- [mage Features] (https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/README.md#3-image-features)
-- [Code Features] (https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/README.md#4-code-features)
-- [Acceleration] (https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/README.md#5-acceleration)
-- [Build] (https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/README.md#6-build)
-- [Acknowledgment] (https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/README.md#7-acknowledgment)
-- [Team] (https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/README.md#8-team)
-- [Comments] (https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/README.md#9-comments)
+- [Scene](#2-scene)
+- [mage Features](#3-image-features)
+- [Code Features](#4-code-features)
+- [Acceleration](#5-acceleration)
+- [Build](#6-build)
+- [Acknowledgment](#7-acknowledgment)
+- [Team](#8-team)
+- [Comments](#9-comments)
 
 # 1. Concept
 ### What we will be rendering?
