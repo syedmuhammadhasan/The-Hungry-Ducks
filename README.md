@@ -42,7 +42,7 @@ section toward the bottom of the page.
 
 # 8. Team 
 include the names of all team members and a photograph of your team.<br>
-<img src="images/hasan.png" alt="Syed Muhammad Hasan"/>
+<img src="images/hasan.png" alt="Syed Muhammad Hasan"/><br>
 Syed Muhammad Hasan
 # 9. Comments 
 include any other comments desired by the team.
