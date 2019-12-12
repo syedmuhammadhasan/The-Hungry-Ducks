@@ -45,6 +45,8 @@ section toward the bottom of the page.
 # 8. Team 
 include the names of all team members and a photograph of your team.<br>
  ![Syed Muhammad Hasan](images/hasan.png)
+ ![Emad Bin Abid](images/emad.png)
+ 
 Syed Muhammad Hasan    Emad Bin Abid
 
 # 9. Comments 
