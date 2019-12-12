@@ -1,12 +1,16 @@
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
+- Bulleted
+- List
 
-# Concept
+1. Numbered
+2. List
+1. # Concept
 ### What we will be rendering?
 
 "Description- description of your concept and how you arrived at it,"
 
-# Scene
+2. # Scene
 describe how you built your scene,
 
 # Image Features
@@ -17,8 +21,21 @@ describe how you built your scene,
 list all the features you have implemented in your ray tracer. This includes changes
 made for Homework 5 and for this project.
 
-- Bulleted
-- List
+# Acceleration 
+include a table comparing rendering times of your ray tracer with and without an
+acceleration structure. Supporting renderings must be included.
 
-1. Numbered
-2. List
+# Build 
+for every image included on the page, a link to the corresponding implementation of World::build,
+
+# Acknowledgment 
+acknowledge all third party sources of used assets or resources, once where
+they are used, e.g. in the caption of a rendered image, and again in an Acknowledgment
+section toward the bottom of the page.
+
+# Team 
+include the names of all team members and a photograph of your team.
+# Comments 
+include any other comments desired by the team.
+
+
