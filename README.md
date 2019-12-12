@@ -42,7 +42,8 @@ section toward the bottom of the page.
 
 # 8. Team 
 include the names of all team members and a photograph of your team.
-![Syed Muhammad Hasan](https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/images/hasan.jpg)
+<img src="https://github.com/syedmuhammadhasan/The-Hungry-Ducks/blob/master/images/hasan.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 # 9. Comments 
 include any other comments desired by the team.
 
