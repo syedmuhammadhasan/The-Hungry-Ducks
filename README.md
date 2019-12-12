@@ -43,7 +43,7 @@ section toward the bottom of the page.
 # 8. Team 
 include the names of all team members and a photograph of your team.<br>
 <div>
- <img src="images/hasan.png" alt="Syed Muhammad Hasan" height="150" width="150"/>
+ <img src="images/hasan.png" alt="Syed Muhammad Hasan" height="100" width="100"/>
  </div>
  <br>
 Syed Muhammad Hasan
