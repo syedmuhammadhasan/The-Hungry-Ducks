@@ -1,5 +1,10 @@
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
+<style>
+ img {
+  border-radius: 50%;
+}
+ </style>
 
 # Table of Contents
 - [Concept](#1-concept)
@@ -43,7 +48,7 @@ section toward the bottom of the page.
 # 8. Team 
 include the names of all team members and a photograph of your team.<br>
 <div>
- <img src="images/hasan.png" alt="Syed Muhammad Hasan" height="100" width="100" border-radius="50%"/>
+ <img src="images/hasan.png" alt="Syed Muhammad Hasan" height="100" width="100" />
  </div>
 Syed Muhammad Hasan
 # 9. Comments 
