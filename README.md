@@ -45,7 +45,7 @@ section toward the bottom of the page.
 # 8. Team 
 include the names of all team members and a photograph of your team.<br>
 <div>
- ![Syed Muhammad Hasan](images/hasan.png)
+ ![Syed Muhammad Hasan](https://github.com/syedmuhammadhasan/The-Hungry-Ducks/tree/master/images/hasan.png)
  </div>
 Syed Muhammad Hasan    Emad Bin Abid
 
