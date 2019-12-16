@@ -39,8 +39,8 @@ section toward the bottom of the page.
 
 # 8. Team 
 include the names of all team members and a photograph of your team.<br>
- ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- ![Emad Bin Abid](images/emad.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ ![Emad Bin Abid](images/emad.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  ![Saman Ghaziani](images/saman.jpeg)
  
 **Syed M. Hasan**  &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid** &nbsp; &nbsp; &nbsp; &nbsp; **Saman Ghaziani**
