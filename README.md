@@ -42,10 +42,10 @@ section toward the bottom of the page.
 
 # 8. Team 
 include the names of all team members and a photograph of your team.<br>
- ![Syed Muhammad Hasan](images/hasan.png)
+ ![Syed M, Hasan](images/hasan.png)
  ![Emad Bin Abid](images/emad.png)
  
-**Syed Muhammad Hasan**   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid**
+**Syed M. Hasan**   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid**
 
 # 9. Comments 
 include any other comments desired by the team.
