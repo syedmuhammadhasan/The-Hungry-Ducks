@@ -1,6 +1,3 @@
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
-
 # Table of Contents
 - [Concept](#1-concept)
 - [Scene](#2-scene)
