@@ -38,7 +38,7 @@ they are used, e.g. in the caption of a rendered image, and again in an Acknowle
 section toward the bottom of the page.
 
 # 8. Team 
- ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+ ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
  ![Emad Bin Abid](images/emad.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  ![Saman Ghaziani](images/saman.jpeg)
  
