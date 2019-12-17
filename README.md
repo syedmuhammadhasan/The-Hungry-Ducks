@@ -1,7 +1,7 @@
 # Table of Contents
 - [Concept](#1-concept)
 - [Scene](#2-scene)
-- [mage Features](#3-image-features)
+- [Image Features](#3-image-features)
 - [Code Features](#4-code-features)
 - [Acceleration](#5-acceleration)
 - [Build](#6-build)
@@ -22,6 +22,7 @@ We attempted to make the scene of Habib University's reception area. We created 
  ![LowhRes Scene](images/480x480.jpg)<br>
  _Low Resolution Scene (480 x 480)_ <br>
  
+# 3 Image Features
 
 # 4. Code Features 
 
