@@ -66,8 +66,14 @@ _High Resolution Scene With Different Layout_ <br>
 # 5. Acceleration 
 ![With acceleration](images/scene-1.jpg)
 
-# 6. Build 
-Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)
+# 6. Build (Needs to be rechecked)
+Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)<br>
+Implementation of High Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
+Implementation of Low Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
+Implementation of High Resolution scene without Reflection can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
+Implementation of High Resolution scene with different colors can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
+Implementation of High Resolution scene with different layout can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
+
 
 # 7. Acknowledgment 
 
