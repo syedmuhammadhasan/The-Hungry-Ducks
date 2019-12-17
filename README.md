@@ -23,7 +23,7 @@ We attempted to make the scene of Habib University's reception area. We created 
  _Low Resolution Scene (480 x 480)_ <br>
  
 # 3 Image Features
-We also render the variety of the same scene using our raytracer engine.
+We also rendered a variety of the same scene using our raytracer engine.
 ### No Reflection
 ![HighResNoReflection](images/highResWOReflection.jpg) <br>
 _High Resolution Scene Without Reflection_ <br>
