@@ -12,7 +12,7 @@
 # 1. Concept
 ### What we will be rendering?
 
-We are rendering a new architecture for reception. Reception is the first area in the university encountered by any individual entering the it and is essential part of any university. A receptionist greets the visitors and responds to them 
+We are rendering a new architecture for reception. Reception is the first area in the university encountered by any individual entering the it and is essential part of any university. 
 
 # 2. Scene
 describe how you built your scene,
