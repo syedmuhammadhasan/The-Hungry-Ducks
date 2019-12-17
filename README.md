@@ -52,7 +52,7 @@ We attempted to make the scene of Habib University's reception area. We created 
 	-- Whitted
 
 # 5. Acceleration 
-![With acceleration](images/scene-1.png)
+![With acceleration](images/scene-1.jpg)
 
 # 6. Build 
 Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)
