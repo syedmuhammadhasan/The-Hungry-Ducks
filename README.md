@@ -69,7 +69,7 @@ We have used the following third party resources for our project.
  ![Saman Gaziani](images/saman.jpeg) &nbsp; &nbsp; &nbsp; &nbsp;
  ![Ismail Vohra](images/ismail1.jpg)
  
-**Syed M. Hasan**  &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid** &nbsp; &nbsp; &nbsp; &nbsp; **Saman Gaziani** &nbsp; &nbsp; &nbsp; &nbsp; **Ismmil Vohra**
+**Syed M. Hasan**  &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid** &nbsp; &nbsp; &nbsp; &nbsp; **Saman Gaziani** &nbsp; &nbsp; &nbsp; &nbsp; **Ismail Vohra**
 
 # 9. Comments 
 include any other comments desired by the team.
