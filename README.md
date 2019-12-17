@@ -53,8 +53,6 @@ We attempted to make the scene of Habib University's reception area. We created 
 # 6. Build 
 Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)
 
-
-=======
 # 7. Acknowledgment 
 
 We have used the following third party resources for our project.
@@ -68,7 +66,7 @@ We have used the following third party resources for our project.
 # 8. Team 
  ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
  ![Emad Bin Abid](images/emad.png) &nbsp; &nbsp; &nbsp; &nbsp; 
- ![Saman Gaziani](images/saman.jpeg) &nbsp; &nbsp; &nbsp; &nbsp;
+ ![Saman Gaziani](images/saman.jpeg) &nbsp; &nbsp; &nbsp;
  ![Ismail Vohra](images/ismail1.jpg)
  
 **Syed M. Hasan**  &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid** &nbsp; &nbsp; &nbsp; &nbsp; **Saman Gaziani** &nbsp; &nbsp; &nbsp; &nbsp; **Isamil Vohra**
