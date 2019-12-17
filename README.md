@@ -10,12 +10,13 @@
 - [Comments](#9-comments)
 
 # 1. Concept
-### What we will be rendering?
+### Habib's Reception.
 
 We are rendering a new architecture for reception. Reception is the first area in the university encountered by any individual entering the it and is essential part of any university. 
 
+
 # 2. Scene
-describe how you built your scene,
+
 
 # 3. Image Features
  highlight interesting parts or features of your render. Additional images may be
@@ -53,11 +54,22 @@ describe how you built your scene,
 	-- Whitted
 
 # 5. Acceleration 
-include a table comparing rendering times of your ray tracer with and without an
-acceleration structure. Supporting renderings must be included.
+-with acceleration structure:
+(images/scene.ppm)
 
 # 6. Build 
-for every image included on the page, a link to the corresponding implementation of World::build,
+Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)
+
+
+=======
+# 7. Acknowledgment 
+
+We have used the following third party resources for our project.
+- Kevin Suffern's Ray Tracing from the Ground Up
+
+- Nicholas Sharp's hapPLY for parsing PLY files
+
+- Team-Raytracer github repository. 
 
 
 # 8. Team 
