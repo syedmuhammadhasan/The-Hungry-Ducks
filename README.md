@@ -22,8 +22,35 @@ describe how you built your scene,
  included for this purpose.
 
 # 4. Code Features 
-list all the features you have implemented in your ray tracer. This includes changes
-made for Homework 5 and for this project.
+4. Code Features
+----------------
+
+- Acceleration Structure
+	-- KD Tree
+
+- BRDF
+	-- Glossy specular
+	-- Lambertian
+	-- Perfect specular
+
+- Light
+	-- Ambient light
+	-- Directional light
+	-- Point light
+	-- Spot light
+
+- Material
+	-- Matte
+	-- Phong
+	-- Reflexive
+
+- Sampler
+	-- Regular box
+	-- Jitter gaussian
+
+- Tracer
+	-- Basic tracer
+	-- Whitted
 
 # 5. Acceleration 
 include a table comparing rendering times of your ray tracer with and without an
@@ -32,10 +59,6 @@ acceleration structure. Supporting renderings must be included.
 # 6. Build 
 for every image included on the page, a link to the corresponding implementation of World::build,
 
-# 7. Acknowledgment 
-acknowledge all third party sources of used assets or resources, once where
-they are used, e.g. in the caption of a rendered image, and again in an Acknowledgment
-section toward the bottom of the page.
 
 # 8. Team 
  ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
