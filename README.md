@@ -17,9 +17,7 @@ We are rendering a new architecture for reception. Reception is the first area i
 
 # 2. Scene
 We attempted to make the scene of Habib University's reception area. We created the scene using Maya, generated an OBJ file and converted it to PLY file using commercially available software. We chose the scene because, in the context of Habib University, reception is one of the first places visitors get to see and is also the representation of the university's philosophy as the front face. Our scene has about 1.2 million primitives.
-
-# 3. Image Features
- Our image has different material type, blinn, phong and lambert with blue directional light. 
+ 
 
 # 4. Code Features 
 
@@ -40,8 +38,6 @@ We attempted to make the scene of Habib University's reception area. We created 
 - Material
 	-- Matte
 	-- Phong
-	-- Lambert
-    -- Blinn
 
 - Sampler
 	-- Regular box
@@ -73,6 +69,7 @@ We have used the following third party resources for our project.
  ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
  ![Emad Bin Abid](images/emad.png) &nbsp; &nbsp; &nbsp; &nbsp; 
  ![Saman Gaziani](images/saman.jpeg)
+ ![Ismail Vohra](images/ismail.jpg)
  
 **Syed M. Hasan**  &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid** &nbsp; &nbsp; &nbsp; &nbsp; **Saman Gaziani**
 
