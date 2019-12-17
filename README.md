@@ -42,7 +42,7 @@ We have used the following third party resources for our project.
 
 - Nicholas Sharp's hapPLY for parsing PLY files
 
-- Team-RayTracer gihub repository. 
+- Team-Raytracer github repository. 
 
 # 8. Team 
  ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
