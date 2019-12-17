@@ -12,7 +12,7 @@
 # 1. Concept
 ### What we will be rendering?
 
-"Description- description of your concept and how you arrived at it,"
+We are rendering a new architecture for reception. Reception is the first area in the university encountered by any individual entering the it and is essential part of any university. A receptionist greets the visitors and responds to them 
 
 # 2. Scene
 describe how you built your scene,
@@ -40,9 +40,9 @@ section toward the bottom of the page.
 # 8. Team 
  ![Syed M, Hasan](images/hasan.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
  ![Emad Bin Abid](images/emad.png) &nbsp; &nbsp; &nbsp; &nbsp; 
- ![Saman Ghaziani](images/saman.jpeg)
+ ![Saman Gaziani](images/saman.jpeg)
  
-**Syed M. Hasan**  &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid** &nbsp; &nbsp; &nbsp; &nbsp; **Saman Ghaziani**
+**Syed M. Hasan**  &nbsp; &nbsp; &nbsp; &nbsp; **Emad Bin Abid** &nbsp; &nbsp; &nbsp; &nbsp; **Saman Gaziani**
 
 # 9. Comments 
 include any other comments desired by the team.
