@@ -12,7 +12,7 @@
 # 1. Concept
 ### Habib's Reception.
 
-We are rendering a new architecture for reception. Reception is the first area in the university encountered by any individual entering the it and is essential part of any university. 
+We are rendering a new architecture for reception. Reception is the first area in the university encountered by any individual entering in and it is an essential part of any university. 
 
 
 # 2. Scene
