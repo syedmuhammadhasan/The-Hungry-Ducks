@@ -16,15 +16,12 @@ We are rendering a new architecture for reception. Reception is the first area i
 
 
 # 2. Scene
-
+We attempted to make the scene of Habib University's reception area. We created the scene using Maya, generated an OBJ file and converted it to PLY file using commercially available software. We chose the scene because, in the context of Habib University, reception is one of the first places visitors get to see and is also the representation of the university's philosophy as the front face. Our scene has about 1.2 million primitives.
 
 # 3. Image Features
- highlight interesting parts or features of your render. Additional images may be
- included for this purpose.
+ Our image has different material type, blinn, phong and lambert with blue directional light. 
 
 # 4. Code Features 
-4. Code Features
-----------------
 
 - Acceleration Structure
 	-- KD Tree
@@ -43,7 +40,8 @@ We are rendering a new architecture for reception. Reception is the first area i
 - Material
 	-- Matte
 	-- Phong
-	-- Reflexive
+	-- Lambert
+    -- Blinn
 
 - Sampler
 	-- Regular box
@@ -54,8 +52,7 @@ We are rendering a new architecture for reception. Reception is the first area i
 	-- Whitted
 
 # 5. Acceleration 
--with acceleration structure:
-(images/scene.ppm)
+![With acceleration](images/scene-1.png)
 
 # 6. Build 
 Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)
