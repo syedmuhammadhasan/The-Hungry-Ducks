@@ -18,8 +18,9 @@ We are rendering a new architecture for reception. Reception is the first area i
 # 2. Scene
 We attempted to make the scene of Habib University's reception area. We created the scene using Maya, generated an OBJ file and converted it to PLY file using commercially available software. We chose the scene because, in the context of Habib University, reception is one of the first places visitors get to see and is also the representation of the university's philosophy as the front face. Our scene has about 1.2 million primitives. <br>
 
- ![HighRes Scene](images/1920 x 1920.ppm) <br>
+ ![HighRes Scene](images/1920 x 1920.jpg) <br>
  _High Resolution Scene (1920 x 1920)_ <br>
+ The image could not be uploaded due to high resolution but is available in the image folder. 
 
  ![LowhRes Scene](images/480x480.jpg)<br>
  _Low Resolution Scene (480 x 480)_ <br>
