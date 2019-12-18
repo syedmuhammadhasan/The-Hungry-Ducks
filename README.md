@@ -72,7 +72,7 @@ _High Resolution Scene With Anti-aliasing_ <br>
 	-- Whitted
 
 # 5. Acceleration 
-![With acceleration](images/scene-1.jpg)
+![Acceleration Chart](images/meta-chart.png)
 
 # 6. Build (Needs to be rechecked)
 Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)<br>
