@@ -17,22 +17,30 @@ We are rendering a new architecture for reception. Reception is the first area i
 
 # 2. Scene
 We attempted to make the scene of Habib University's reception area. We created the scene using Maya, generated an OBJ file and converted it to PLY file using commercially available software. We chose the scene because, in the context of Habib University, reception is one of the first places visitors get to see and is also the representation of the university's philosophy as the front face. Our scene has about 1.2 million primitives. <br>
-![HighRes Scene](images/1920 x 1920.jpg) <br>
+
+ ![HighRes Scene](images/1920 x 1920.jpg) <br>
  _High Resolution Scene (1920 x 1920)_ <br>
  ![LowhRes Scene](images/480x480.jpg)<br>
  _Low Resolution Scene (480 x 480)_ <br>
  
 # 3 Image Features
 We also rendered a variety of the same scene using our raytracer engine.
+
 ### No Reflection
 ![HighResNoReflection](images/highResWOReflection.jpg) <br>
 _High Resolution Scene Without Reflection_ <br>
+
 ### Change of Colors
 ![Colors Changes](images/scenewithdiffcolors.jpg) <br>
 _High Resolution Scene With Different Colors_ <br>
+
 ### Layout
 ![Layout Changes](images/scenewithdiffconfig.jpg) <br>
 _High Resolution Scene With Different Layout_ <br>
+
+### Anti-Aliasing
+![Layout Changes](images/AntiAliasBuild.jpg) <br>
+_High Resolution Scene With Anti-aliasing_ <br>
 
 
 # 4. Code Features 
@@ -68,8 +76,8 @@ _High Resolution Scene With Different Layout_ <br>
 
 # 6. Build (Needs to be rechecked)
 Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)<br>
-Implementation of High Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
-Implementation of Low Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
+Implementation of High Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabibHigh.cpp) <br>
+Implementation of Low Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabibLow.cpp) <br>
 Implementation of High Resolution scene without Reflection can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
 Implementation of High Resolution scene with different colors can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
 Implementation of High Resolution scene with different layout can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
