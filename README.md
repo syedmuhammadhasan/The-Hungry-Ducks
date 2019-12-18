@@ -20,7 +20,8 @@ We attempted to make the scene of Habib University's reception area. We created 
 
  ![HighRes Scene](images/1920 x 1920.jpg) <br>
  _High Resolution Scene (1920 x 1920)_ <br>
- The image could not be uploaded due to high resolution but is available in the image folder. 
+ The image could not be uploaded due to high resolution but is available in the image folder.
+ [here](https://github.com/syedmuhammadhasan/The-Hungry-Ducks/tree/master/images) 
 
  ![LowhRes Scene](images/480x480.jpg)<br>
  _Low Resolution Scene (480 x 480)_ <br>
