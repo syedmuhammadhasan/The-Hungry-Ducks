@@ -104,10 +104,10 @@ We have used the following third party resources for our project.
 # 9. Bonus Features
 The following features in our project can be treated as bonus features as they go beyond the scope of project requirements.<br>
 
-**Multithreading:** Implementation of multithreading using OpenMp to boost the speed of system. <br>
-**Loading PLY files:** Integration of open-sourced module happly to deal with triangle mesh PLY files.<br>
-**Regular Sampling with Box Filter:** Implementation of regular sampling with a box filter. <br>
-**Jitter Sampling with Gaussian Filter:** Implemention of jitter sampling with a gaussian filter. <br>
-**Command-line Interface:** Implemention of a simple command line interface to run the program using multiple options/flags. <br>
-**Config File for Habib Layout:** Implementation of generic config file habibLayout.txt to deal with tile spaces independently. The places of objects can be changed by changing the setting in config file. <br>
+- **Multithreading:** Implementation of multithreading using OpenMp to boost the speed of system. <br>
+- **Loading PLY files:** Integration of open-sourced module happly to deal with triangle mesh PLY files.<br>
+- **Regular Sampling with Box Filter:** Implementation of regular sampling with a box filter. <br>
+- **Jitter Sampling with Gaussian Filter:** Implemention of jitter sampling with a gaussian filter. <br>
+- **Command-line Interface:** Implemention of a simple command line interface to run the program using multiple options/flags. <br>
+- **Config File for Habib Layout:** Implementation of generic config file habibLayout.txt to deal with tile spaces independently. The places of objects can be changed by changing the setting in config file. <br>
 
