@@ -20,6 +20,7 @@ We attempted to make the scene of Habib University's reception area. We created 
 
  ![HighRes Scene](images/1920 x 1920.jpg) <br>
  _High Resolution Scene (1920 x 1920)_ <br>
+ 
  ![LowhRes Scene](images/480x480.jpg)<br>
  _Low Resolution Scene (480 x 480)_ <br>
  
