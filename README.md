@@ -75,12 +75,13 @@ _High Resolution Scene With Anti-aliasing_ <br>
 ![Acceleration Chart](images/meta-chart.png)
 
 # 6. Build (Needs to be rechecked)
-Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp)<br>
+Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabib.cpp)<br>
 Implementation of High Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabibHigh.cpp) <br>
 Implementation of Low Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabibLow.cpp) <br>
-Implementation of High Resolution scene without Reflection can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
-Implementation of High Resolution scene with different colors can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
-Implementation of High Resolution scene with different layout can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildTest.cpp) <br>
+Implementation of Anti Aliasing scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildAntiAlias.cpp) <br>
+Implementation of Chapter 14 scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildChapter14.cpp) <br>
+Implementation of Hello World scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHelloWorld.cpp) <br>
+Implementation of MVP scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildMVP.cpp) <br>
 
 
 # 7. Acknowledgment 
