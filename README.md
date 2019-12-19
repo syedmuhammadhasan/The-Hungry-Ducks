@@ -77,7 +77,7 @@ _High Resolution Scene With Anti-aliasing_ <br>
 # 5. Acceleration 
 ![Acceleration Chart](images/meta-chart.png)
 
-# 6. Build (Needs to be rechecked)
+# 6. Build
 Implementation associated with models/office.ply can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabib.cpp)<br>
 Implementation of High Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabibHigh.cpp) <br>
 Implementation of Low Resolution scene can be found [here](https://github.com/habib-university/cs440-fall19-proj-ii-the-hungry-ducks/blob/master/src/raytracer/build/buildHabibLow.cpp) <br>
